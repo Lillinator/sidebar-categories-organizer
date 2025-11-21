@@ -21,8 +21,8 @@ use_gradient_fade:
 
 categories_to_hide:
   default: ""
-  type: string
-  description: "Category slugs to hide from sidebar completely (comma-separated, e.g., staff-only,archive)"
+  type: category
+  description: "Categories to hide from sidebar completely."
 
 default_view:
   default: "custom"
