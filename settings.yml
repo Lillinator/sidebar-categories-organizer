@@ -21,7 +21,8 @@ use_gradient_fade:
 
 categories_to_hide:
   default: ""
-  type: category
+  type: list
+  list_type: category
   description: "Categories to hide from sidebar completely."
 
 default_view:
